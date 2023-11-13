@@ -9,7 +9,7 @@
 
 # ボタン配置
 
-<p align="center">
-<img src="https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard2.pdf" width="50%">
-</p>
+[ArcadeBoard2](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard2.pdf)
+
+[ArcadeBoard](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard.pdf)
 
