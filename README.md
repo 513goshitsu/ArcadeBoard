@@ -3,9 +3,9 @@
 </p>
 
 # 更新履歴
-11/13「ArcadeBoard2」基板の表記を変更しました
+2023.11.13「ArcadeBoard2」基板の表記を変更しました
 
-11/13「ArcadeBoard」「ArcadeBoard2」の組ねじをM4×12からM5×15に変更しました
+2023.11.13「ArcadeBoard」「ArcadeBoard2」の組ねじをM4×12からM5×15に変更しました
 
 # ボタン配置
 
