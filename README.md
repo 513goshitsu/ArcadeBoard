@@ -9,7 +9,9 @@
 
 # ボタン配置
 
-[ArcadeBoard配置図](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard.pdf)
+印刷する際は実寸サイズで印刷するようにして下さい。（目盛りをつけてますので印刷後に確認できます）
 
-[ArcadeBoard2配置図](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard2.pdf)
+[ArcadeBoard](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard.pdf)
+
+[ArcadeBoard2](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard2.pdf)
 
