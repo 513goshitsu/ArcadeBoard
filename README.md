@@ -9,7 +9,7 @@
 
 # ボタン配置
 
-[ArcadeBoard2](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard2.pdf)
+[ArcadeBoard配置図](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard.pdf)
 
-[ArcadeBoard](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard.pdf)
+[ArcadeBoard2配置図](https://github.com/513goshitsu/ArcadeBoard/blob/main/ArcadeBoard2.pdf)
 
